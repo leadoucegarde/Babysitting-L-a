@@ -13,7 +13,7 @@
     }
     h1 {
       color: #ff6b6b;
-    }
+    }<img src="photo.jpg" alt="Photo de Léa" width="200" style="border-radius: 10px;">
     h2 {
       color: #444;
       border-bottom: 2px solid #eee;
